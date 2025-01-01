@@ -17,5 +17,8 @@
     "url": "https://github.com/Rukkyoo/node/issues"
   },
   "homepage": "https://github.com/Rukkyoo/node#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
